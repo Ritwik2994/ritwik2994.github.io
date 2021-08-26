@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1jFW0asPYLhLfqRJd3v0ODfgtoCSMLDWH/view?usp=sharing",
+    "https://drive.google.com/file/u/1/d/1mCYcZtDInuEgPu73B95IOo2O2_o0Yh31/view?usp=sharing",
   portfolio_repository: "https://github.com/ritwik2994/masterPortfolio",
 };
 
@@ -36,7 +36,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ritwik-rohitashwa-921155160/",
+    link: "https://www.linkedin.com/in/ritwik-rohitashwa/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:ritwik210@gmail.com",
+    link: "mailto:ritwik2994@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -159,40 +159,13 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
+        "⚡ Building responsive front-end website using React-Redux",
         "⚡ Developing mobile applications using React Native ",
         "⚡ Creating application backend in Node, Express, PHP",
-        "⚡ Learning Typescript and Redux 🚀",
+        "⚡ Learning Typescript and microservices 🚀",
+    
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#777BB4",
-          },
-        },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -202,10 +175,10 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Typescript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
-            color: "#61DAFB",
+            color: "#CC6699",
           },
         },
         {
@@ -215,6 +188,23 @@ const skills = {
             color: "#339933",
           },
         },
+        
+        
+        {
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
+          style: {
+            color: "#777BB4",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -247,7 +237,7 @@ const skills = {
         "⚡ Experience working on AWS",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on AWS",
-        "⚡ Learning Docker and Kubernetes",
+        "⚡ Learning Docker and Kubernetes 🚀",
       ],
       softwareSkills: [
         // {
